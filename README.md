@@ -1,6 +1,7 @@
 # super_mario
 
 A new Flutter project.
+Simple SUPER MARIO game.
 
 ## Getting Started
 
